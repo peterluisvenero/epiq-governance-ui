@@ -3754,5 +3754,19 @@
     "twitter": "@AdrenaProtocol",
     "discord": "https://discord.gg/adrena",
     "github": "https://github.com/AdrenaFoundation"
+  },
+  {
+    "symbol": "Depai",
+    "category": "DePIN",
+    "bannerImage": "/realms/Depai/banner.png",
+    "displayName": "Depai DAO",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "AoZ6McVvfMKSpPuQrxX4iG2a6stVNYFwmePCYMhNjtM9",
+    "communityMint": "DWYs62NuMqika9eWzJ17G7haFxGFUnwaDhARXVAopump",
+    "ogImage": "/realms/Depai/logo.png",
+    "shortDescription": "The World's First Supply-demand Balanced and Always-online AI Inference Network",
+    "website": "https://depai.online/",
+    "twitter": "@DepaiOnline",
+    "github": "https://github.com/Depai-DAO"
   }
 ]
